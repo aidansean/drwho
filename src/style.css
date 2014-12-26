@@ -1,0 +1,25 @@
+h2#h2_dance{
+  font : 50px arial black ;
+  text-align : center ;
+  color : white ;
+  background : black ;
+}
+div#div_image_wrapper{
+  text-align : center ;
+}
+input#submit_play{
+  width : 640px ;
+  color : black ;
+  background : white ;
+  font : 50px arial !important ;
+  margin : auto ;
+}
+img#img_dance{
+  width : 645px ;
+  height : 345px ;
+  margin : auto ;
+  border : 1px solid black ;
+  margin : 10px ;
+  margin-top : 73px ;
+}
+
