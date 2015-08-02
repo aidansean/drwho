@@ -13,7 +13,7 @@ include('../_core/preamble.php') ;
 ?>
 
 <div id="div_image_wrapper">
-  <img id="img_dance" src="freeze.jpg" width="645px" height="345px" alt="White people dance"/>
+  <img id="img_dance" src="freeze.jpg" alt="White people dance"/>
   <input type="submit" id="submit_play" value="Dance!"/>
   <div class="youtube_container">
     <object width="645px" height="0px" id="youtube_player" type="application/x-shockwave-flash" data="https://www.youtube.com/v/XGXI5n5YpVs?version=3&amp;enablejsapi=1">

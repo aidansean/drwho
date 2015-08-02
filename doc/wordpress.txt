@@ -1,0 +1,17 @@
+I had had an idea for a very long time, which was to animate a song using the canvas and a YouTube video.  Someone sent a <tt>gif</tt> image of some Dr Who actors dancing badly, and I saw this as an opportunity to test out my idea in the simplest way possible.  So I put the <tt>gif</tt> together with the YouTube song and button to play/stop the music and animation.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/drwho/">Live page</a>
+<a href="https://github.com/aidansean/drwho">GitHub repository</a>
+
+<h3>Overview</h3>
+
+The YouTube video is hidden from view, so this needed to use the YouTube Javascript API (which I already mastered for the <a href="http://aidansean.com/projects/?p=235">Marble Hornet</a> project) and there is a single button which controls the music and animation.  If anyone watches to the end of the song they probably need to get some help.
+
+<h3>Challenges</h3>
+<dl>
+<dt><em>Challenge</em>: This is a very simple prototype.</dt>
+
+<dd><em>Solution</em>: This project fell far short of what I wanted it to be a prototype for.  It was just a joke to show some friends, but it showed that I could synchronise the YouTube player and DOM elements quite well, so the first stage is complete.  The next stage is to make some animation on the canvas. (Resolved)</dd>
+</dl>
